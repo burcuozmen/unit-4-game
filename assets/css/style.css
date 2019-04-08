@@ -1,0 +1,67 @@
+body {
+    font-family: Arial, "Helvetica Neue", Helvetica, sans-serif;
+    font-size: 15px;
+    line-height: 30px;
+    background: url("../images/background.png")
+    
+}
+
+    
+   
+#top {
+   color: #ffffff;
+   background-color: orange;
+   width: 400px;
+   font-size: 30px;
+   padding: 30px;
+}
+    
+
+
+#instructions {
+    background-color: lemonchiffon;
+    width: 800px;
+    color: green;
+
+}
+#scoreBoard {
+    margin: auto;
+    background-color: lemonchiffon;
+    width: 800px;
+}
+#points {
+    background-color: green;
+    text-align: center;
+    padding: 30px;
+    color: lemonchiffon;
+    font-size: 50px;
+  
+}
+
+
+#winlos {
+    background-color: aquamarine;
+    padding: 20px;
+    text-align: left;
+    font-size: 20px;
+    font-weight: bold;
+    
+
+
+}
+
+.crystals {
+    width: 800px;
+    margin: auto;
+}
+.userScore {
+    color: #ffffff;
+    background-color: darkcyan;
+    height: 100px;
+    width: 800px;
+    margin: auto;
+    font-size: 40px;
+    text-align: center;
+    padding: 20px;
+}
+
